@@ -1,0 +1,18 @@
+flet
+pandas
+PyGreSQL
+opencv
+requests
+keras
+tensorflow
+pytorch
+numpy
+matplotlib
+scikit-learn
+scipy
+jupyterlab
+jupyter notebook
+cmake
+face_recognition
+dlib
+pillow
